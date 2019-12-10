@@ -1,0 +1,10 @@
+C:\Users\kajet\source\repos\HealthySnakeGame\HealthySnakeGame\bin\Debug\HealthySnakeGame.exe.config
+C:\Users\kajet\source\repos\HealthySnakeGame\HealthySnakeGame\bin\Debug\HealthySnakeGame.exe
+C:\Users\kajet\source\repos\HealthySnakeGame\HealthySnakeGame\bin\Debug\HealthySnakeGame.pdb
+C:\Users\kajet\source\repos\HealthySnakeGame\HealthySnakeGame\obj\Debug\HealthySnakeGame.csprojAssemblyReference.cache
+C:\Users\kajet\source\repos\HealthySnakeGame\HealthySnakeGame\obj\Debug\HealthySnakeGame.frmSnake.resources
+C:\Users\kajet\source\repos\HealthySnakeGame\HealthySnakeGame\obj\Debug\HealthySnakeGame.Properties.Resources.resources
+C:\Users\kajet\source\repos\HealthySnakeGame\HealthySnakeGame\obj\Debug\HealthySnakeGame.csproj.GenerateResource.cache
+C:\Users\kajet\source\repos\HealthySnakeGame\HealthySnakeGame\obj\Debug\HealthySnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\kajet\source\repos\HealthySnakeGame\HealthySnakeGame\obj\Debug\HealthySnakeGame.exe
+C:\Users\kajet\source\repos\HealthySnakeGame\HealthySnakeGame\obj\Debug\HealthySnakeGame.pdb
