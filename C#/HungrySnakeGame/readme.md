@@ -1,1 +1,1 @@
-University course,  mnini educational project. Eat healthy to be fit!!!
+University course, mini educational project. Eat healthy to be fit!!!
