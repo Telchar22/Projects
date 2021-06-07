@@ -1,2 +1,2 @@
 # Projects
-This repo consist of projects that I archive (tiny one, learning projects or short games etc.).
+This repository consists of projects that I have archived (tiny one, learning projects or short games etc.).
