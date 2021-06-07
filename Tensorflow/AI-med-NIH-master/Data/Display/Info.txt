@@ -1,0 +1,63 @@
+There are 0 overlaping patients.
+There are 0 overlaping patients.
+There are 0 overlaping patients.
+Train dataframe:
+
+The class Atelectasis has 9176 samples
+The class Cardiomegaly has 2209 samples
+The class Effusion has 10510 samples
+The class Infiltration has 15863 samples
+The class Mass has 4582 samples
+The class Nodule has 5166 samples
+The class Pneumonia has 1131 samples
+The class Pneumothorax has 4221 samples
+The class Consolidation has 3712 samples
+The class Edema has 1827 samples
+The class Emphysema has 1989 samples
+The class Fibrosis has 1351 samples
+The class Pleural_Thickening has 2711 samples
+The class Hernia has 181 samples
+
+
+Validate dataframe:
+
+The class Atelectasis has 1226 samples
+The class Cardiomegaly has 278 samples
+The class Effusion has 1435 samples
+The class Infiltration has 1925 samples
+The class Mass has 573 samples
+The class Nodule has 590 samples
+The class Pneumonia has 135 samples
+The class Pneumothorax has 525 samples
+The class Consolidation has 415 samples
+The class Edema has 213 samples
+The class Emphysema has 261 samples
+The class Fibrosis has 165 samples
+The class Pleural_Thickening has 368 samples
+The class Hernia has 30 samples
+
+
+Test dataframe:
+
+The class Atelectasis has 1157 samples
+The class Cardiomegaly has 289 samples
+The class Effusion has 1372 samples
+The class Infiltration has 2106 samples
+The class Mass has 627 samples
+The class Nodule has 575 samples
+The class Pneumonia has 165 samples
+The class Pneumothorax has 556 samples
+The class Consolidation has 540 samples
+The class Edema has 263 samples
+The class Emphysema has 266 samples
+The class Fibrosis has 170 samples
+The class Pleural_Thickening has 306 samples
+The class Hernia has 16 samples
+
+There is large part ofNo Finding patients in each set:
+train set: 48432
+, validate set: 5775
+, test set: 6154
+
+
+Process finished with exit code 0
